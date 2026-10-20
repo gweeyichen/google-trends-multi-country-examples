@@ -1,0 +1,8 @@
+{
+  "mode": "compare",
+  "countries": ["MY"],
+  "keywords": ["durian"],
+  "timeframe": "today 12-m",
+  "includeSubregions": true,
+  "maxItems": 10
+}

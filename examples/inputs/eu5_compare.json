@@ -1,0 +1,7 @@
+{
+  "mode": "compare",
+  "countryPreset": "EU5",
+  "keywords": ["electric vehicle"],
+  "timeframe": "today 3-m",
+  "maxItems": 20
+}

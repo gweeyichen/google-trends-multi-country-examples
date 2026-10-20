@@ -1,0 +1,8 @@
+{
+  "mode": "compare",
+  "countryPreset": "SEA",
+  "keywords": ["durian", "bubble tea"],
+  "timeframe": "today 12-m",
+  "includeRelated": true,
+  "maxItems": 50
+}

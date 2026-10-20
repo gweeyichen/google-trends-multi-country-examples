@@ -1,0 +1,8 @@
+{
+  "name": "google-trends-multi-country-node-example",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "apify-client": "^2.0.0"
+  }
+}
